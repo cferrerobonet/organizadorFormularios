@@ -1,0 +1,6 @@
+# Ignorar archivo de workspace local
+*.code-workspace
+
+# Otras recomendaciones útiles
+.DS_Store
+.vscode/
